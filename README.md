@@ -6,12 +6,6 @@
 
 > use canvas to draw
 
-## Clone
-
-```
-git clone git@github.com:Louiszhai/canvas-draw.git
-```
-
 ## Build Setup
 
 ``` bash
